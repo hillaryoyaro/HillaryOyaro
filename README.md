@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m an **emerging entrepreneur and software engineer** with over 5 years of experience building modern web applications and AI solutions. I co-founded **EmaliExpress**, an eCommerce platform inspired by global marketplaces, where I designed scalable systems, implemented visual search, and optimized product recommendations.  
+I’m an **emerging entrepreneur and software engineer** with over 4 years of experience building modern web applications and AI solutions. I co-founded **EmaliExpress**, an eCommerce platform inspired by global marketplaces, where I designed scalable systems, implemented visual search, and optimized product recommendations.  
 
 Previously, I worked as a **Full-Stack Engineer at Elloe AI**, developing conversational AI chatbots and deploying scalable solutions on AWS. This experience enhanced my expertise in AI, generative models, and full-stack product development.  
 
@@ -58,7 +58,18 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
   </p>
 
   <!-- AI & Machine Learning -->
-  <h4>🧠 AI & Machine Learning</h4>
+ 
+<h4>🧠 AI & Machine Learning</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-66C4A7?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/Anthropic-0B0D12?style=flat-square" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon Bedrock"/>
+</p>
+
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/LangChain-66C4A7?style=flat-square" alt="LangChain"/>
