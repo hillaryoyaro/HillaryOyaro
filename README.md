@@ -17,25 +17,10 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
 
 ---
 
-## 🌟 Achievements & Impact
-
-<div align="center">
-  <!-- EmaliExpress Impact -->
-  <img src="https://img.shields.io/badge/EmaliExpress-Orders_Optimized-9C27B0?style=for-the-badge" alt="EmaliExpress Orders Optimized"/>
-  <img src="https://img.shields.io/badge/EmaliExpress-User_Engagement_Up-66C4A7?style=for-the-badge" alt="EmaliExpress User Engagement"/>
-  <img src="https://img.shields.io/badge/EmaliExpress-Visual_Search_Engine_Implemented-FF6B6B?style=for-the-badge" alt="EmaliExpress Visual Search"/>
-
-  <!-- Elloe AI Impact -->
-  <img src="https://img.shields.io/badge/ElloeAI-Chatbots_Developed-4285F4?style=for-the-badge" alt="Elloe AI Chatbots Developed"/>
-  <img src="https://img.shields.io/badge/ElloeAI-AI_Models_Optimized-00BFA5?style=for-the-badge" alt="Elloe AI Models Optimized"/>
-  <img src="https://img.shields.io/badge/ElloeAI-AWS_Deployment_Success-FFB300?style=for-the-badge" alt="Elloe AI AWS Deployment"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
+
   <!-- Frontend & Backend -->
   <h4>Frontend & Backend</h4>
   <p>
@@ -46,25 +31,47 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   </p>
 
+  <!-- Web Scraping & Automation -->
+  <h4>🕷️ Web Scraping & Automation</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+    <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square" alt="Scrapy"/>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
+    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
+    <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=flat-square" alt="Beautiful Soup"/>
+  </p>
+
   <!-- Cloud & DevOps -->
-  <h4>Cloud & DevOps</h4>
+  <h4>☁️ Cloud & DevOps</h4>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/>
     <img src="https://img.shields.io/badge/CI/CD-FF6B6B?style=flat-square" alt="CI/CD"/>
   </p>
 
-  <!-- AI & ML -->
-  <h4>AI & Machine Learning</h4>
+  <!-- AI & Machine Learning -->
+  <h4>🧠 AI & Machine Learning</h4>
   <p>
-    <img src="https://img.shields.io/badge/FastAPI-0052CC?style=flat-square" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Transformers-FF6B6B?style=flat-square" alt="Transformers"/>
-    <img src="https://img.shields.io/badge/OpenCV-3776AB?style=flat-square" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/LangChain-66C4A7?style=flat-square" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" alt="HuggingFace"/>
+    <img src="https://img.shields.io/badge/Anthropic-0B0D12?style=flat-square" alt="Anthropic"/>
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
   </p>
+
+  
+  <p>
+    <img src="https://img.shields.io/badge/SmythOS-66C4A7?style=flat-square" alt="SmythOS"/>
+    <img src="https://img.shields.io/badge/Databutton-FF6B6B?style=flat-square" alt="Databutton"/>
+    <img src="https://img.shields.io/badge/Levity_AI-4A90E2?style=flat-square" alt="Levity"/>
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
+    <img src="https://img.shields.io/badge/Make.com-3333FF?style=flat-square" alt="Make.com"/>
+  </p>
+
 </div>
 
 ---
@@ -85,7 +92,7 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
 ## 🎯 Current Focus
 
 - Building **EmaliExpress**, an innovative eCommerce platform with AI-driven visual search, product recommendations, and automation features.
-- Developed **conversational & generative AI solutions** at Elloe AI, enhancing engagement and scalability.
+- Developed **conversational & Generative AI solutions** at Elloe AI, enhancing engagement and scalability.
 - Exploring **AI, cloud-native systems, and DevOps automation** to improve software efficiency.
 
 ---
