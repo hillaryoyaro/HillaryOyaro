@@ -21,41 +21,42 @@
   </p>
 </blockquote>
 
+---
+
 ## About Me 🚀
 
 I’m **Hillary Oyaro**, an emerging entrepreneur and software engineer with over five years of experience building full-stack applications and AI-powered solutions.  
 
-At **Elloe AI**, I engineered **conversational AI chatbot interfaces** using React and TypeScript, and optimized backend systems with Node.js and MongoDB, deploying scalable solutions on AWS and GCP.  
+At **Elloe AI**, I engineered **conversational AI chatbot interfaces** using React and TypeScript, optimized backend systems with Node.js and MongoDB, and deployed scalable solutions on AWS and GCP.  
 
 I am also co-founding **EmaliExpress**, a platform inspired by AliExpress and Alibaba. I design and build solutions for **AI-powered product search, recommendations, and automated operations**, currently in the building phase and preparing for launch.
 
 ---
 
-## Tech Stack & Tools 🛠️
+## Skills & Metrics 📊
 
 <div align="center">
-  <h3>💻 Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </p>
 
-  <h3>🖥️ Backend & AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </p>
+<!-- AI & ML Badges -->
+<p>
+  <img src="https://img.shields.io/badge/AI-Powered_Solutions-66C4A7?style=for-the-badge&logo=python&logoColor=white" alt="AI Solutions"/>
+  <img src="https://img.shields.io/badge/ML-Model_Training-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Models"/>
+  <img src="https://img.shields.io/badge/AI_Agents-Responsive-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents"/>
+</p>
 
-  <h3>☁️ Cloud & DevOps</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  </p>
+<!-- eCommerce Metrics -->
+<p>
+  <img src="https://img.shields.io/badge/Products_Processed-5000+/success?style=for-the-badge&logo=shopify&logoColor=white" alt="Products Processed"/>
+  <img src="https://img.shields.io/badge/Sales_Impact-20%25_increase-66C4A7?style=for-the-badge&logo=shopify&logoColor=white" alt="Sales Impact"/>
+  <img src="https://img.shields.io/badge/Automation-Order_Processing-9C27B0?style=for-the-badge&logo=robot&logoColor=white" alt="Order Automation"/>
+</p>
+
+<!-- DevOps & Cloud Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Cloud_Automation-AWS_GCP-66C4A7?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Automation"/>
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-Docker_K8s-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD Pipelines"/>
+  <img src="https://img.shields.io/badge/DevOps_Practices-Enhanced-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps"/>
+</p>
 </div>
 
 ---
@@ -73,7 +74,7 @@ I am also co-founding **EmaliExpress**, a platform inspired by AliExpress and Al
 
 ---
 
-## GitHub Stats 📊
+## GitHub Stats 📈
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hillaryoyaro&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" />
