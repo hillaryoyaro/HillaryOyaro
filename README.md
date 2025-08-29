@@ -17,6 +17,22 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
 
 ---
 
+## 🌟 Achievements & Impact
+
+<div align="center">
+  <!-- EmaliExpress Impact -->
+  <img src="https://img.shields.io/badge/EmaliExpress-Orders_Optimized-9C27B0?style=for-the-badge" alt="EmaliExpress Orders Optimized"/>
+  <img src="https://img.shields.io/badge/EmaliExpress-User_Engagement_Up-66C4A7?style=for-the-badge" alt="EmaliExpress User Engagement"/>
+  <img src="https://img.shields.io/badge/EmaliExpress-Visual_Search_Engine_Implemented-FF6B6B?style=for-the-badge" alt="EmaliExpress Visual Search"/>
+
+  <!-- Elloe AI Impact -->
+  <img src="https://img.shields.io/badge/ElloeAI-Chatbots_Developed-4285F4?style=for-the-badge" alt="Elloe AI Chatbots Developed"/>
+  <img src="https://img.shields.io/badge/ElloeAI-AI_Models_Optimized-00BFA5?style=for-the-badge" alt="Elloe AI Models Optimized"/>
+  <img src="https://img.shields.io/badge/ElloeAI-AWS_Deployment_Success-FFB300?style=for-the-badge" alt="Elloe AI AWS Deployment"/>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -69,7 +85,7 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
 ## 🎯 Current Focus
 
 - Building **EmaliExpress**, an innovative eCommerce platform with AI-driven visual search, product recommendations, and automation features.
-- Developing **conversational AI solutions** at Elloe AI, enhancing engagement and scalability.
+- Developed **conversational & generative AI solutions** at Elloe AI, enhancing engagement and scalability.
 - Exploring **AI, cloud-native systems, and DevOps automation** to improve software efficiency.
 
 ---
