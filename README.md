@@ -17,10 +17,9 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
   <!-- Frontend & Backend -->
   <h4>Frontend & Backend</h4>
   <p>
@@ -29,6 +28,16 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  </p>
+
+  <!-- AI & Machine Learning -->
+  <h4>🧠 AI & Machine Learning</h4>
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-66C4A7?style=flat-square" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" alt="HuggingFace"/>
+    <img src="https://img.shields.io/badge/Anthropic-0B0D12?style=flat-square" alt="Anthropic"/>
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" alt="Google Gemini"/>
   </p>
 
   <!-- Web Scraping & Automation -->
@@ -52,18 +61,8 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
     <img src="https://img.shields.io/badge/CI/CD-FF6B6B?style=flat-square" alt="CI/CD"/>
   </p>
 
-  <!-- AI & Machine Learning -->
-  <h4>🧠 AI & Machine Learning</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/LangChain-66C4A7?style=flat-square" alt="LangChain"/>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" alt="HuggingFace"/>
-    <img src="https://img.shields.io/badge/Anthropic-0B0D12?style=flat-square" alt="Anthropic"/>
-    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-  </p>
-
-  
+  <!-- No-Code & Automation -->
+  <h4>🔧 No-Code & Automation</h4>
   <p>
     <img src="https://img.shields.io/badge/SmythOS-66C4A7?style=flat-square" alt="SmythOS"/>
     <img src="https://img.shields.io/badge/Databutton-FF6B6B?style=flat-square" alt="Databutton"/>
@@ -71,7 +70,6 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
     <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
     <img src="https://img.shields.io/badge/Make.com-3333FF?style=flat-square" alt="Make.com"/>
   </p>
-
 </div>
 
 ---
@@ -89,33 +87,27 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
 
 ---
 
-## 🎯 Current Focus
+## 🔄 Projects & Tools Carousel
 
-- Building **EmaliExpress**, an innovative eCommerce platform with AI-driven visual search, product recommendations, and automation features.
-- Developed **conversational & Generative AI solutions** at Elloe AI, enhancing engagement and scalability.
-- Exploring **AI, cloud-native systems, and DevOps automation** to improve software efficiency.
+<div align="center" style="overflow: hidden; width: 100%;">
 
----
+  <!-- Row 1: Projects -->
+  <div style="display: flex; animation: scroll-left 20s linear infinite; gap: 20px;">
+    <img src="https://img.shields.io/badge/EmaliExpress-🛒-Purple?style=for-the-badge" alt="EmaliExpress"/>
+    <img src="https://img.shields.io/badge/ElloeAI-🤖-66C4A7?style=for-the-badge" alt="Elloe AI"/>
+    <img src="https://img.shields.io/badge/EmaliExpress-🛒-Purple?style=for-the-badge" alt="EmaliExpress"/>
+    <img src="https://img.shields.io/badge/ElloeAI-🤖-66C4A7?style=for-the-badge" alt="Elloe AI"/>
+  </div>
 
-## 📈 GitHub Stats
+  <!-- Row 2: Web & Dev -->
+  <div style="display: flex; animation: scroll-right 25s linear infinite; gap: 20px; margin-top: 20px;">
+    <img src="https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-⏩-000000?style=for-the-badge" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-🟢-339933?style=for-the-badge" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-🟦-3178C6?style=for-the-badge" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge" alt="Python"/>
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hillaryoyaro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hillaryoyaro&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/hillaryoyaro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://hillaryoyaro.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-66C4A7?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</div>
+  <!-- Row 3: AI & ML -->
+  <div style="display: flex; animation: scroll-left 30s linear infinite; gap: 20px; margin-top: 20px;">
+    <img src="https://img.shields.io/badge/OpenAI-🤖-412991?style=for-the-badge" alt="Open
