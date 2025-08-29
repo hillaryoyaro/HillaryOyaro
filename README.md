@@ -1,8 +1,11 @@
 # Hi there, I'm Hillary Oyaro 👋
 
 <div align="center">
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=800&lines=Software+Engineer;Emerging+Entrepreneur;AI+&+ML+Enthusiast;Building+eCommerce+Solutions;Cloud+&+DevOps+Practitioner" alt="Typing SVG" />
+  <!-- Animated Typing Header: alternating Software Engineer & Emerging Entrepreneur -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=1000&color=66C4A7&center=true&vCenter=true&width=800&lines=Software+Engineer;Emerging+Entrepreneur" alt="Typing SVG" />
+
+  <!-- Static focus lines -->
+  <p>AI & ML Enthusiast | Building eCommerce Solutions | Cloud & DevOps Practitioner</p>
 
   <!-- Visitor Counter -->
   <p>
@@ -50,6 +53,7 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
   <h4>☁️ Cloud & DevOps</h4>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon Bedrock"/>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -78,6 +82,7 @@ I am passionate about **AI, machine learning, cloud computing, and eCommerce**, 
     <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
     <img src="https://img.shields.io/badge/Make.com-3333FF?style=flat-square" alt="Make.com"/>
   </p>
+
 </div>
 
 ---
