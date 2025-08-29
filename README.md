@@ -1,102 +1,98 @@
 # Hi there, I'm Hillary Oyaro 👋
 
 <div align="center">
-  <!-- Animated AI & eCommerce Header -->
-  <img width="100%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="AI & eCommerce Header" />
-
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=800&lines=Emerging+Entrepreneur;Full-Stack+Engineer;AI+&+ML;Building+Innovative+eCommerce+Solutions" alt="Typing SVG" />
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=800&lines=Emerging+Entrepreneur;AI+&+ML+Enthusiast;Building+eCommerce+Solutions;Cloud+&+DevOps+Practitioner" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_Architecture-9C27B0?style=for-the-badge&logo=ai&logoColor=white" alt="AI Architecture">
-  <img src="https://img.shields.io/badge/Building-eCommerce_Solutions-66C4A7?style=for-the-badge&logo=shopify&logoColor=white" alt="eCommerce">
-  <img src="https://img.shields.io/badge/Exploring-Machine_Learning-E1E6F0?style=for-the-badge&logo=python&logoColor=black" alt="ML">
-</p>
+---
 
-<blockquote>
-  <p align="center">
-    "Bridging AI, full-stack development, and innovative eCommerce solutions.<br>
-    Committed to creating practical, scalable, and accessible technology for real-world impact."
+## 🚀 About Me
+
+I’m an **emerging entrepreneur and software engineer** with over 5 years of experience building modern web applications and AI solutions. I co-founded **EmaliExpress**, an eCommerce platform inspired by global marketplaces, where I designed scalable systems, implemented visual search, and optimized product recommendations.  
+
+Previously, I worked as a **Full-Stack Engineer at Elloe AI**, developing conversational AI chatbots and deploying scalable solutions on AWS. This experience enhanced my expertise in AI, generative models, and full-stack product development.  
+
+I am passionate about **AI, machine learning, cloud computing, and eCommerce**, and I’m dedicated to building impactful solutions that improve user experience and operational efficiency.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <!-- Frontend & Backend -->
+  <h4>Frontend & Backend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   </p>
-</blockquote>
 
----
+  <!-- Cloud & DevOps -->
+  <h4>Cloud & DevOps</h4>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/CI/CD-FF6B6B?style=flat-square" alt="CI/CD"/>
+  </p>
 
-## About Me 🚀
-
-I’m **Hillary Oyaro**, an emerging entrepreneur and software engineer with over five years of experience building full-stack applications and AI-powered solutions.  
-
-At **Elloe AI**, I engineered **conversational AI chatbot interfaces** using React and TypeScript, optimized backend systems with Node.js and MongoDB, and deployed scalable solutions on AWS and GCP.  
-
-I am also co-founding **EmaliExpress**, a platform inspired by AliExpress and Alibaba. I design and build solutions for **AI-powered product search, recommendations, and automated operations**, currently in the building phase and preparing for launch.
-
----
-
-## Skills & Metrics 📊
-
-<div align="center">
-
-<!-- AI & ML Badges -->
-<p>
-  <img src="https://img.shields.io/badge/AI-Powered_Solutions-66C4A7?style=for-the-badge&logo=python&logoColor=white" alt="AI Solutions"/>
-  <img src="https://img.shields.io/badge/ML-Model_Training-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Models"/>
-  <img src="https://img.shields.io/badge/AI_Agents-Responsive-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents"/>
-</p>
-
-<!-- eCommerce Metrics -->
-<p>
-  <img src="https://img.shields.io/badge/Products_Processed-5000+/success?style=for-the-badge&logo=shopify&logoColor=white" alt="Products Processed"/>
-  <img src="https://img.shields.io/badge/Sales_Impact-20%25_increase-66C4A7?style=for-the-badge&logo=shopify&logoColor=white" alt="Sales Impact"/>
-  <img src="https://img.shields.io/badge/Automation-Order_Processing-9C27B0?style=for-the-badge&logo=robot&logoColor=white" alt="Order Automation"/>
-</p>
-
-<!-- DevOps & Cloud Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Cloud_Automation-AWS_GCP-66C4A7?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Automation"/>
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-Docker_K8s-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="CI/CD Pipelines"/>
-  <img src="https://img.shields.io/badge/DevOps_Practices-Enhanced-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps"/>
-</p>
+  <!-- AI & ML -->
+  <h4>AI & Machine Learning</h4>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-0052CC?style=flat-square" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Transformers-FF6B6B?style=flat-square" alt="Transformers"/>
+    <img src="https://img.shields.io/badge/OpenCV-3776AB?style=flat-square" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square" alt="Scikit-learn"/>
+  </p>
 </div>
 
 ---
 
-## Featured Projects 🌟
+## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/hillaryoyaro/EmaliExpress">
-    <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200" alt="EmaliExpress"/>
+  <a href="https://hillaryoyaro.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/EmaliExpress-In_Design-Purple?style=for-the-badge" alt="EmaliExpress"/>
   </a>
-  <a href="https://github.com/hillaryoyaro/ElloeAI">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Elloe AI"/>
+  <a href="https://github.com/hillaryoyaro/ElloeAI" target="_blank">
+    <img src="https://img.shields.io/badge/ElloeAI-AI_Chatbots-66C4A7?style=for-the-badge" alt="Elloe AI"/>
   </a>
 </div>
 
 ---
 
-## GitHub Stats 📈
+## 🎯 Current Focus
+
+- Building **EmaliExpress**, an innovative eCommerce platform with AI-driven visual search, product recommendations, and automation features.
+- Developing **conversational AI solutions** at Elloe AI, enhancing engagement and scalability.
+- Exploring **AI, cloud-native systems, and DevOps automation** to improve software efficiency.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hillaryoyaro&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hillaryoyaro&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hillaryoyaro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hillaryoyaro&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## Let's Connect 🤝
+## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://twitter.com/hillaryoyaro" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hillary-oyaro/" target="_blank">
+  <a href="https://www.linkedin.com/in/hillaryoyaro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://hillaryoyaro.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-66C4A7?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</div>
-
-<div align="center">
-  <p>📫 Reach me at: <strong>hilary.oyaro@gmail.com</strong></p>
+  <a href="https://hillaryoyaro.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-66C4A7?style=for-the-badge" alt="Portfolio"/>
+  </a>
 </div>
